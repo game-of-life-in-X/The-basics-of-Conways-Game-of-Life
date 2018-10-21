@@ -51,5 +51,11 @@ The Toad is another two period oscillator. It's slightly more complex and has a 
 
 This is a classical glider, it moves infinitely in one direction and doesn't stop until it meets an external cell.
 
+### The Eater / Fish Hook
+![The most efficient eater form, known as a fish hook](https://i.imgur.com/w7jtUo6.png)
+
+A specialised Still Life model that can consume oncoming gliders. It is useful for more complex mechanisms such as logic gates.
+*Note: This model may not work on certain algorithms*
+
 ## Where to go next?
-From here it's up to you to experiment and research to find more complex and interesting models and create new ideas. Youtube user [Alex Bellos](https://www.youtube.com/channel/UCjY-JWyBWiejeMoVSmYVTPA) has a playlist featuring many more complex models such as glider guns and basic logic gates using gliders that you can explore [here](https://www.youtube.com/watch?v=bTPN3spiq1I&list=PL_DEGJtvl7wtPc-ZyTq_jh0ptRjnYGaWZ).
+From here it's up to you to experiment and research to find more complex and interesting models and create new ideas. Youtube user [Alex Bellos](https://www.youtube.com/channel/UCjY-JWyBWiejeMoVSmYVTPA) has a playlist featuring many more complex models such as glider guns and basic logic gates using gliders that you can explore [here](https://www.youtube.com/watch?v=bTPN3spiq1I&list=PL_DEGJtvl7wtPc-ZyTq_jh0ptRjnYGaWZ). There is also the [Life Wiki](http://www.conwaylife.com/wiki/Main_Page) which is extremely helpful for understanding more complex models and ideas in Conway's Game of Life. 
