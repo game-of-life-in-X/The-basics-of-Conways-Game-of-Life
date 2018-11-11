@@ -5,7 +5,7 @@
 ## What is it?
 Conway's Game of Life is a cellular automaton designed by the British mathematician John Conway in 1970. The player creates an initial state for the game 'grid' and then provides no further input and watches how the cells 'evolve'. The model is an example of the concept of complexity derived from simplicity as the game holds an extremely simple set of rules that are then used to create more complex models and ideas.
 
-##How can I try it out?
+## How can I try it out?
 You can use my own [python implementation](https://github.com/game-of-life-in-X/GameOfLifeInPython) or the common cross-platform implementation [Golly](http://golly.sourceforge.net/). There are also online alternatives if you want to avoid installing a program and performing setup.
 
 ## The rules
